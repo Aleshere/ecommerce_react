@@ -10,6 +10,8 @@
 
 # production
 /build
+.env
+.gitattribute
 
 # misc
 .DS_Store
